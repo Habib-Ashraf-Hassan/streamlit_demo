@@ -13,5 +13,4 @@ seaborn==0.12.2
 semver==2.13.0
 six==1.16.0
 smmap==5.0.0
-streamlit==1.18.1
 toolz==0.12.0
